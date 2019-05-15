@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZTEST_GIT_01</CLSNAME>
+    <CLSNAME>ZTEST_GIT_02</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Test git 01</DESCRIPT>
+    <DESCRIPT>A second for difference</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
@@ -13,16 +13,10 @@
    </VSEOCLASS>
    <DESCRIPTIONS>
     <SEOCOMPOTX>
-     <CLSNAME>ZTEST_GIT_01</CLSNAME>
-     <CMPNAME>A_NEW_SECOND_METHOD</CMPNAME>
+     <CLSNAME>ZTEST_GIT_02</CLSNAME>
+     <CMPNAME>DO_SOMETHING</CMPNAME>
      <LANGU>E</LANGU>
-     <DESCRIPT>A new description</DESCRIPT>
-    </SEOCOMPOTX>
-    <SEOCOMPOTX>
-     <CLSNAME>ZTEST_GIT_01</CLSNAME>
-     <CMPNAME>SUPER_PUPER_METHOD</CMPNAME>
-     <LANGU>E</LANGU>
-     <DESCRIPT>Super puper description</DESCRIPT>
+     <DESCRIPT>Do and do</DESCRIPT>
     </SEOCOMPOTX>
    </DESCRIPTIONS>
   </asx:values>
